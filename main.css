@@ -9,7 +9,7 @@ body, html {
 
 /* Background with image and overlay */
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/fonto.png'); /* Add a semi-transparent overlay */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/sol\ outside.jpg); /* Add a semi-transparent overlay */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
